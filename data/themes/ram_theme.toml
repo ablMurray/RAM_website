@@ -7,8 +7,8 @@ name = "ram"
 
   # Menu
   menu_primary = "#353535"
-  menu_text = "#ffffff"
-  menu_text_active = "#FFC300"
+  menu_text = "#fff"
+  menu_text_active = "#ffc300"
   menu_title = "#92006b"
 
   # Home sections
