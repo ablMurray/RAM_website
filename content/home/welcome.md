@@ -9,6 +9,8 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: 40600a4c0a0d173b62f0cb169d13a007.jpg
 ---
 <br>
 
