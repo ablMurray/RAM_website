@@ -6,10 +6,10 @@ name = "Cyberpunk"
   primary = "rgb(255, 0, 60)"
 
   # Menu
-  menu_primary = "#000000"
-  menu_text = "#92006b"
-  menu_text_active = "rgb(255, 0, 60)"
-  menu_title = "rgb(255, 0, 60)"
+  menu_primary = "#353535"
+  menu_text = "#f8f5e2"
+  menu_text_active = "f9f8e9"
+  menu_title = "e1f476"
 
 [dark]
   # Primary
