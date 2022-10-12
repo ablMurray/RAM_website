@@ -31,7 +31,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2009
     - course: Medicine (MBBS)
-      institution: GKT School of Life Sciences and Medicine
+      institution: GKT School of Medical Education
       year: 2024
 superuser: true
 user_groups:
