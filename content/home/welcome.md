@@ -14,4 +14,8 @@ design:
 ---
 <br>
 
+<br>
+
+<br>
+
 KCL Research and Methodologies is an interdisciplinary medical research group located in central London. Synthesising knowledge and technologies from various fields and specialties, we deliver consistently high-quality research.
