@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 20
+weight: 10
 title: Setting the standard for rigorous research
 hero_media: welcome.jpg
 widget_id: Home
