@@ -1,3 +1,23 @@
+# add a purple highlight strip to the bottom of the navbar
+
 #navbar-main {
  border-bottom: 6px solid #92006b;
+}
+
+
+# Resize the hero title
+
+.hero-title {
+  font-size: 3.5rem;
+  margin-top: 0;
+  line-height: 1;
+}
+
+
+# reduce line spacing in body text of hero 
+
+.hero-lead {
+  max-width: 768px;
+  font-size: 1.35rem;
+  line-height: 1.2;
 }
