@@ -7,7 +7,17 @@ hero_media: welcome.jpg
 widget_id: Home
 design:
   columns: "1"
-  css_style: null
+  css_style: '.hero-title {
+  font-size: 3.5rem;
+  margin-top: 0;
+  line-height: 1;
+}
+
+.hero-lead {
+  max-width: 768px;
+  font-size: 1.35rem;
+  line-height: 1.2;
+}'
   css_class: null
   background:
     image: ""
