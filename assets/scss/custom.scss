@@ -6,8 +6,10 @@
 
 // more space between navbar menu items
 
-.navbar {
-  padding: 0 1rem;
+.navbar-nav {
+    .nav-link {
+      padding: 0rem 2rem;
+  }
 }
 
 // Resize the hero title
