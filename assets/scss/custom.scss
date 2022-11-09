@@ -4,13 +4,31 @@
  border-bottom: 6px solid #92006b;
 }
 
-// more space between navbar menu items
+//customise display of navbar links when: hovering & active
 
 .navbar-nav {
+    display: flex;
+
     .nav-link {
-      padding: 0rem 2rem;
+      color: rgba($sta-menu-text, 0.85);
+
+      &.active,
+      &:hover,
+      &:focus {
+        color: $sta-menu-text;
+      }
+
+      &.active {
+        font-weight: bold !important;
+        color: $sta-menu-text-active !important;
+      }
+      
+      &:hover {
+        color: #92006b;
+      }
+    }
   }
-}
+
 
 // Resize the hero title
 
