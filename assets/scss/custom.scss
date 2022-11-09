@@ -24,7 +24,8 @@
       }
       
       &:hover {
-        color: #92006b !important;
+        font-weight: bold !important;
+        color: $sta-menu-text-active !important;
       }
     }
   }
