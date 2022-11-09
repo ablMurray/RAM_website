@@ -10,7 +10,7 @@
     display: flex;
 
     .nav-link {
-      color: rgba($sta-menu-text, 0.85);
+      color: #c2c9d6 !important;
 
       &.active,
       &:hover,
@@ -24,7 +24,6 @@
       }
       
       &:hover {
-        font-weight: bold !important;
         color: $sta-menu-text-active !important;
       }
     }
