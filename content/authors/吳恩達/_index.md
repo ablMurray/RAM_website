@@ -1,12 +1,6 @@
 ---
-organizations:
-  - name: King's College London
-    url: ""
-superuser: false
-authors:
-  - 吳恩達
 title: Alex Murray
-role: Medical Student
+role: Medical Student (4th Year)
 bio: My research interests include urology, male fertility and imaging.
 interests:
   - Web Design
@@ -25,6 +19,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+organizations:
+  - name: King's College London
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,6 +34,9 @@ education:
       institution: King's College London
       year: 2022
 email: ""
+superuser: false
+authors:
+  - 吳恩達
 user_groups:
   - Researchers
 ---
