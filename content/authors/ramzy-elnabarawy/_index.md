@@ -1,7 +1,7 @@
 ---
 title: Ramzy Elnabarawy
 role: Junior Clinical and Research Fellow, Assistant Lecturer of Andrology
-avatar_filename: ""
+avatar_filename: avatar.png
 bio: Junior Clinical and Research Fellow at Guy’s Hospital and Assistant
   Lecturer of Andrology at Cairo University
 social: []
