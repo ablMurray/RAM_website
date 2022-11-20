@@ -1,7 +1,7 @@
 ---
 title: Razna Ahmed
 role: Medical Student (4th Year)
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: "Razna is a fourth-year medical student at King’s College London. Her
   interests include neuroscience, infertility, and artificial intelligence. "
 social: []
