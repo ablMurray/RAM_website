@@ -14,6 +14,8 @@ education:
       year: 2020
       institution: ???
 superuser: false
+user_groups:
+  - Researchers
 ---
 * Graduate of Faculty of Medicine Cairo University (MBBCh) class 2015 with Excellent grades, among the top 5% of his class.
 * Finished internship for 1 year in Cairo University Teaching Hospitals, circulating among different surgical and medical specialties.
