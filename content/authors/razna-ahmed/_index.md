@@ -17,6 +17,8 @@ education:
       year: 2022
 email: Razna.ahmed@kcl.ac.uk
 superuser: false
+user_groups:
+  - Researchers
 ---
 Razna has been involved in research for 3 years now, specialising with a focus on andrology. Her work on male-factor infertility has recently been presented at the EAU Annual Congress 2022 in Amsterdam. 
 
