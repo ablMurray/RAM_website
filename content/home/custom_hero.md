@@ -1,15 +1,15 @@
 ---
-widget: blank
-headless: true
+title: My page
+type: landing
 
-# ... Put Your Section Options Here (title etc.) ...
-title: My New Section
-subtitle:
-weight: 10  # section position on page
-
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+sections:
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
-
-<div class="paper"><div class="color-overlay"></div></div>
