@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: <p style="text-align: center;">My page</p>
+title:
 type: landing
 
 sections:
@@ -8,7 +8,7 @@ sections:
     content:
       title: My title
       subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: <p style="text-align: center;">Text_content</p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
