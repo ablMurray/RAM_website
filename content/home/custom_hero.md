@@ -10,7 +10,7 @@ design:
   background:
     color: "#ffffff"
 ---
-# <p style="text-align: left; font-family:Tahoma">WELCOME TO THE KCL RESEARCH AND METHODOLOGIES GROUP WEBSITE</p>
+# <p style="text-align: left; font-family: Gill sans">WELCOME TO THE KCL RESEARCH AND METHODOLOGIES GROUP WEBSITE</p>
 
 <br>
 <br>
