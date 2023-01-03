@@ -1,16 +1,15 @@
 ---
 widget: blank
+widget_id: landing
 headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
-title: My New Section
-subtitle:
-weight: 10  # section position on page
-
+weight: 10
+title: ""
+subtitle: null
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
+  background:
+    color: "#000000"
 ---
+# <p style="text-align: center; color:gold; font-family:arial">WELCOME TO THE KCL RESEARCH AND METHODOLOGIES GROUP WEBSITE</p>
 
-Add any content here - text, images, videos, galleries - and even HTML code!
-
+<p style="text-align: justify; color: gold; font-family: arial; line-height: 1.5">We are a student society, and research group, dedicated to engaging in rigorous, inter-disciplinary medical research. By emphasizing rigour and gold-standard statistical techniques, our researchers learn the skills required to produce high quality academic output. Currently, our work focuses on urology and several projects are underway to integrate contemporary technologies, such as artificial intelligence and novel imaging techniques, in order to improve clinical practice.</p>
