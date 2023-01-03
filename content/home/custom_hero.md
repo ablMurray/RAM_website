@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: My page
+title: <p style="text-align: center;">My page</p>
 type: landing
 
 sections:
