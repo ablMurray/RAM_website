@@ -10,8 +10,8 @@ widget_id: landing
 design:
   columns: "1"
   background:
-    color: "#ffffff"
-    image: ""
+    color: ""
+    image: animated-shape.svg
   css_style: null
   css_class: null
 ---
