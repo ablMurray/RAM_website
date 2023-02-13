@@ -18,7 +18,4 @@ design:
 <br>
 
 We are a student society, and research group, dedicated to engaging in
-rigorous, interdisciplinary medical research. Currently, our work focuses
-on urology and several projects are underway to integrate contemporary
-technologies, such as artificial intelligence and novel imaging techniques, in
-order to improve clinical practice.
+rigorous, interdisciplinary medical research. 
