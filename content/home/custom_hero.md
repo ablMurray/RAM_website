@@ -17,4 +17,4 @@ design:
     color: "#ffffff"
     image: ""
 ---
-![screen reader text](vector-vector-illustration-the-shard-and-the-london-skyline-eps-svg.jpg)
+![screen reader text](vector-vector-illustration-the-shard-and-the-london-skyline-eps-svg.png)
