@@ -5,7 +5,7 @@ weight: 10
 title: |
   KCL Research and  
   Methodologies
-hero_media: "data-extraction-bro.svg"
+hero_media: null
 widget_id: Hero
 design:
   columns: "1"
