@@ -10,7 +10,7 @@ widget_id: Hero
 design:
   columns: "1"
   background:
-    color: "#ffffff"
+    color: ""
     image: blob-scene-haikei.png
   css_style: null
   css_class: null
