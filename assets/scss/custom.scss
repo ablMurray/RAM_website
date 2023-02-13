@@ -33,10 +33,11 @@
     }
   }
 
-// More compact top and bottom padding for Hero.
+// More compact top and bottom padding for Hero + animated svg bg
 
 .wg-hero {
   padding: 1em;
+  background-image: url(Animated Shape.svg);
 }
 
 // Resize the hero title & text
