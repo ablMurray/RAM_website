@@ -6,7 +6,6 @@ title: |
   KCL Research and  
   Methodologies
 hero_media: null
-widget_id: Hero
 design:
   columns: "1"
   background:
