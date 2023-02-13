@@ -3,7 +3,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  WELCOME TO THE KCL RESEARCH AND METHODOLOGIES GROUP WEBSITE
+  KCL RESEARCH AND METHODOLOGIES GROUP
 hero_media: vector-vector-illustration-the-shard-and-the-london-skyline-eps-svg.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
