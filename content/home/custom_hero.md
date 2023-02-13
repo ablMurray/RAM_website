@@ -10,8 +10,8 @@ widget_id: Hero
 design:
   columns: "1"
   background:
-    color: ""
-    image: coders.jpg
+    color: "#ffffff"
+    image: ""
   css_style: null
   css_class: null
 ---
