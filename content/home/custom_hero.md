@@ -11,8 +11,7 @@ design:
   background:
     color: "#ffffff"
   # Add custom styles
-  css_style:
-  .hero-title {
+  css_style:.hero-title {
   font-size: 1.5 rem;
   margin-top: 0;
   line-height: 1;
