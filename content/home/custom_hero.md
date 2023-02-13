@@ -1,19 +1,19 @@
 ---
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
+widget: hero
+headless: true
+weight: 10
 title: |
   KCL Research and  
   Methodologies
-hero_media:
+hero_media: null
+widget_id: Hero
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
   background:
     color: "#ffffff"
-  # Add custom styles
-  css_style:
-  css_class:
+    image: animated-shape.svg
+  css_style: null
+  css_class: null
 ---
 
 <br>
