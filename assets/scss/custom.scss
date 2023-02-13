@@ -39,22 +39,17 @@
   line-height: 1;
 }
 
-.hero-lead {
-  max-width: 768px;
-  font-size: 1.15rem;
-}
-
 // reduce line spacing in body text of hero 
 
 .hero-lead {
   max-width: 768px;
-  font-size: 1.35rem;
+  font-size: 1.15rem;
   line-height: 1.5;
 }
 
 // Formatting of hero image
 
-.hero-media {
+.hero_media {
   display: flex;
   align-items: center;
   justify-content: right !important;
