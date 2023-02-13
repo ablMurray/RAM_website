@@ -54,10 +54,10 @@
 
 // Formatting of hero image
 
-.hero_media {
+.hero-media {
   display: flex;
   align-items: center;
-  justify-content: right;
-  height: 100%;
+  justify-content: right !important;
+  height: 50% !important;
   text-align: center;
 }
