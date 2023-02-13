@@ -11,7 +11,7 @@ design:
   columns: "1"
   background:
     color: "#ffffff"
-    image: animated-shape.svg
+    image: ""
   css_style: null
   css_class: null
 ---
