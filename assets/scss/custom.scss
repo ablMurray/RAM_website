@@ -30,7 +30,7 @@
   }
 
 
-// Resize the hero title
+// Resize the hero title & text
 
 .hero-title {
   font-size: 1.5rem;
@@ -39,6 +39,10 @@
   line-height: 1;
 }
 
+.hero-lead {
+  max-width: 768px;
+  font-size: 1.15rem;
+}
 
 // reduce line spacing in body text of hero 
 
