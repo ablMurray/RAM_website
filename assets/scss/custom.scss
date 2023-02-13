@@ -33,15 +33,20 @@
     }
   }
 
+// More compact top and bottom padding for Hero.
+
+.wg-hero {
+  padding: 1em;
+}
 
 // Resize the hero title & text
 
 .hero-title {
   color: black;
-  font-size: 3rem;
-  font-weight: 650;
+  font-size: 2.8rem;
+  font-weight: 600;
   margin-top: 0;
-  line-height: 1.5;
+  line-height: 1.35;
 }
 
 // reduce line spacing in body text of hero 
