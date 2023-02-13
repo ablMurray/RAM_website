@@ -11,7 +11,7 @@ design:
   columns: "1"
   background:
     color: ""
-    image: animated-shape.svg
+    image: blob-scene-haikei.png
   css_style: null
   css_class: null
 ---
