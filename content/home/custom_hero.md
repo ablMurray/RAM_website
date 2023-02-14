@@ -5,7 +5,7 @@ weight: 10
 title: |
   KCL Research and  
   Methodologies
-hero_media: null
+hero_media: welcome.png
 widget_id: landing
 design:
   columns: "1"
