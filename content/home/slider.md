@@ -1,10 +1,7 @@
 ---
-widget: slider
+widget: slider  # Use the Slider widget as this page section
 widget_id: carousel
 weight: 20
----
-widget: slider  # Use the Slider widget as this page section
-weight: 20  # Position of this section on the page
 active: true  # Publish this section?
 headless: true  # This file represents a page section.
 
@@ -51,3 +48,4 @@ content:
         # icon_pack: fas
         # text: Join Us
         # url: ../contact/
+---
