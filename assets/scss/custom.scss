@@ -61,10 +61,10 @@
 
 // Formatting of hero image
 
-.col-12.mx-auto.col-md-6.hero-media {
+.hero-media {
   display: flex;
   align-items: center;
   justify-content: right !important;
-  height: 100% !important;
+  height: 50% !important;
   text-align: center;
 }
