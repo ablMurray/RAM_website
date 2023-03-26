@@ -1,22 +1,29 @@
 ---
-widget: hero
-headless: true
-weight: 10
-title: |
-  KCL Research and  
-  Methodologies
-hero_media: welcome.png
-widget_id: landing
-design:
-  columns: "1"
-  background:
-    color: ""
-    image: ""
-  css_style: null
-  css_class: null
+title: Markdown
+type: landing
+
+sections:
+  - block: markdown
+    content:
+      title: KCL Men's Health
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
 
-<br>
+```html
 
-We are a student society, and research group, dedicated to engaging in
-rigorous, interdisciplinary medical research.
+<!-- particles.js container -->
+<div id="particles-js"></div>
+
+<!-- stats - count particles -->
+<div class="count-particles">
+  <span class="js-count-particles">--</span> particles
+</div>
+
+<!-- particles.js lib (JavaScript CodePen settings): https://github.com/VincentGarreau/particles.js -->
+
+```
