@@ -14,6 +14,12 @@ widget: blank
 widget_id: Hero
 weight: 10
 design:
+  spacing:
+    padding:
+      - 0px
+      - 0px
+      - 0px
+      - 0px
   background:
     color: "#2a9d8f"
 ---
