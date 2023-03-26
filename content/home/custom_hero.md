@@ -9,17 +9,15 @@ sections:
       text: Add any **markdown** formatted content here - text, images, videos,
         galleries - and even HTML code!
     design:
-      spacing:
       columns: "1"
 widget: blank
 widget_id: Hero
 weight: 10
 design:
-  spacing:
   background:
     color: "#2a9d8f"
 ---
-<p style="text-align:right;">
+<p style="text-align:right;padding:0">
 <span style="color:#e76f51;font-weight:700;font-size:60px">
     Welcome to
 </span>
@@ -32,3 +30,4 @@ design:
 <span style="color:#e76f51;font-weight:700;font-size:40px">
     A student society and research group based at King's College London
 </span>
+</p>
