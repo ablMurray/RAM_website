@@ -10,7 +10,7 @@ sections:
         galleries - and even HTML code!
     design:
       columns: "1"
-widget: Markdown
+widget: landing
 widget_id: Hero
 weight: 10
 design:
