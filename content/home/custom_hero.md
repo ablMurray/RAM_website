@@ -10,14 +10,12 @@ sections:
         galleries - and even HTML code!
     design:
       spacing:
-        padding: ['1rem', 0]
       columns: "1"
 widget: blank
 widget_id: Hero
 weight: 10
 design:
   spacing:
-    padding: ['1rem', 0]
   background:
     color: "#2a9d8f"
 ---
