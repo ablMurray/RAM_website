@@ -9,6 +9,12 @@ sections:
       text: Add any **markdown** formatted content here - text, images, videos,
         galleries - and even HTML code!
     design:
+      spacing:
+        padding:
+          - 0px
+          - 0px
+          - 0px
+          - 0px
       columns: "1"
 widget: blank
 widget_id: Hero
