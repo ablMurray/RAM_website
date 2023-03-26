@@ -9,7 +9,7 @@
 {{ $text := $block.content.text | emojify | $page.RenderString }}
 
 {{ if ne $columns "1" }}
-  <div class="col-12 col-lg-12 no-padding">
+  <div class="col-12 col-lg-8 col-xl-12 no-padding">
     {{ $text }}
   </div>
 {{ else }}
