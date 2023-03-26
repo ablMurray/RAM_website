@@ -17,7 +17,7 @@ design:
   background:
     color: "#2a9d8f"
 ---
-<p style="text-align:right;padding:0">
+<p style="text-align:right">
 <span style="color:#e76f51;font-weight:700;font-size:60px">
     Welcome to
 </span>
