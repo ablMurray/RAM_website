@@ -1,9 +1,17 @@
 ---
 title: ""
-widget: hero
+type: landing
+
+widget: blank
 widget_id: Hero
 headless: true
 weight: 10
+sections:
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text:
 design:
   columns: "1"
   css_style:
