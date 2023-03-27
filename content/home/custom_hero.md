@@ -20,16 +20,16 @@ design:
     color: "#2a9d8f"
 ---
 <p style="text-align:right; line-height:1; text-shadow: 2px 4px 3px rgba(0,0,0,0.3);">
-<span style="color:#e76f51;font-weight:700;font-size:60px">
+<span style="color:#f4a261;font-weight:700;font-size:60px">
     Welcome to
 </span>
 <br>
-<span style="color:#e76f51;font-weight:700;font-size:100px">
+<span style="color:#f4a261;font-weight:700;font-size:100px">
     Men's Health Research
 </span>
 </p>
 <p style="text-align:left; line-height:1; text-shadow: 2px 4px 3px rgba(0,0,0,0.3);">
-<span style="color:#e76f51;font-weight:700;font-size:30px">
+<span style="color:#f4a261;font-weight:700;font-size:30px">
     A student society and research group 
 <br>based at King's College London
 </span>
