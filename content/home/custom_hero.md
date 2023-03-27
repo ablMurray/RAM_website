@@ -19,7 +19,7 @@ design:
   background:
     color: "#2a9d8f"
 ---
-<p style="text-align:right; line-height:1; text-shadow: 2px 4px 3px rgba(0,0,0,0.3);">
+<p style="text-align:right; line-height:1;">
 <span style="color:#f4a261;font-weight:700;font-size:60px">
     Welcome to
 </span>
@@ -28,7 +28,7 @@ design:
     Men's Health Research
 </span>
 </p>
-<p style="text-align:left; line-height:1; text-shadow: 2px 4px 3px rgba(0,0,0,0.3);">
+<p style="text-align:left; line-height:1;">
 <span style="color:#f4a261;font-weight:700;font-size:30px">
     A student society and research group 
 <br>based at King's College London
