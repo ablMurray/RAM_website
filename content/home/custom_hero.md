@@ -1,25 +1,23 @@
 ---
 title: ""
 type: landing
-
-widget: blank
-widget_id: Hero
-headless: true
-weight: 10
 sections:
   - block: markdown
     content:
-      title: My title
+      title: KCL Men's Health
       subtitle: My subtitle
-      text:
+      text: Add any **markdown** formatted content here - text, images, videos,
+        galleries - and even HTML code!
+    design:
+      columns: "1"
+widget: blank
+widget_id: Hero
+weight: 10
 design:
-  columns: "1"
-  css_style:
-  css_class:
   background:
     color: "#2a9d8f"
 ---
-<p style="text-align:right">
+<p style="text-align:right; line-height:1">
 <span style="color:#e76f51;font-weight:700;font-size:60px">
     Welcome to
 </span>
@@ -28,8 +26,9 @@ design:
     Men's Health Research
 </span>
 </p>
-<p style="text-align:left;">
-<span style="color:#e76f51;font-weight:700;font-size:40px">
-    A student society and research group based at King's College London
+<p style="text-align:left; line-height:1">
+<span style="color:#e76f51;font-weight:700;font-size:30px">
+    A student society and research group 
+<br>based at King's College London
 </span>
 </p>
