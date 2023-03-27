@@ -5,7 +5,7 @@ widget_id: Hero
 headless: true
 weight: 10
 design:
-  columns: "1"
+  columns: "2"
   css_style:
   css_class:
   background:
