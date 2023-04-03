@@ -19,7 +19,7 @@ design:
   background:
     color: "#2a9d8f"
 ---
-<p style="text-align:right; line-height:1;">
+<p style="text-align:right; line-height:1;class="heading"">
 <span style="color:#264653;font-weight:700;font-size:60px">
     Welcome to
 </span>
