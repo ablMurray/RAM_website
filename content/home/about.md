@@ -20,13 +20,13 @@ design:
     color: "#2a9d8f"
 ---
 
-<p style="text-align:center; line-height:1.2;">
-<span style="color:#e76f51;font-weight:400;font-size:50px">
+<p style="text-align:center; line-height:1.2; color:#264653">
+<span style="font-weight:400;font-size:50px">
     About Us
 </span>
 <br>
 <br> 
-<span style="color:#e76f51;font-weight:300;font-size:30px">
+<span style="text-align:left;font-weight:300;font-size:30px">
     Welcome to our multidisciplinary research group! We are a team of doctors and students who share a passion for research
     and a commitment to advancing healthcare through cutting-edge technology and innovative approaches.
   <br>
