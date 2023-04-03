@@ -23,7 +23,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: endOfConference_Outside.jpg
+        media: endofconference_outside.jpg
         fit: cover
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
@@ -32,7 +32,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: alex_KFS_genderID.jpg
+        media: alex_kfs_genderid.jpg
         fit: cover
     - title: KCL Men's Health at EAU23!
       content: Take a look at what we're working on...
