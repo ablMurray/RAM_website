@@ -27,7 +27,9 @@ design:
 <span style="color:#264653;font-weight:700;font-size:100px">
     Men's Health Research
 </span>
-<span style="text-align:left; line-height:1; color:#264653;font-weight:700;font-size:30px">
+</p>
+<p class="heading" style="text-align:left; line-height:1;">
+<span style="color:#264653;font-weight:700;font-size:30px">
     A student society and research group 
 <br>based at King's College London
 </span>
