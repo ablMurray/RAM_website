@@ -34,7 +34,7 @@ content:
         brightness: 0.7
         media: Alex_KFS_genderID.jpg
         fit: cover
-    - title: 👋 Welcome to the group
+    - title: KCL Men's Health at EAU23!
       content: Take a look at what we're working on...
       align: center
       background:
