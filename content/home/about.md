@@ -22,7 +22,7 @@ design:
 
 <h2 class="heading">
   <p style="text-align:center; line-height:1.2; color:#264653">
-    <span style="font-weight:700;font-size:50px">
+    <span style="font-weight:650;font-size:50px">
       About Us
     </span>
   </p>
