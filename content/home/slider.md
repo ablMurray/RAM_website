@@ -1,7 +1,7 @@
 ---
 widget: slider  # Use the Slider widget as this page section
 widget_id: carousel
-weight: 20
+weight: 30
 active: true  # Publish this section?
 headless: true  # This file represents a page section.
 
@@ -23,7 +23,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: null
+        media: EndOfConference_Outside.jpg
         fit: cover
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
@@ -32,7 +32,16 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: null
+        media: Alex_KFS_genderID.jpg
+        fit: cover
+    - title: 👋 Welcome to the group
+      content: Take a look at what we're working on...
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: Dan_presentation.jpg
         fit: cover
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
@@ -41,7 +50,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: null
+        media: Eric_presentation.jpg
         fit: cover
       # link:
         # icon: graduation-cap
