@@ -20,13 +20,19 @@ design:
     color: "#2a9d8f"
 ---
 
-<p style="text-align:center; line-height:1.2; color:#264653">
-<span style="font-weight:400;font-size:50px">
-    About Us
-</span>
+<h2 class="heading">
+  <p style="text-align:center; line-height:1.2; color:#264653">
+    <span style="font-weight:500;font-size:50px">
+      About Us
+    </span>
+  </p>
+</h2>
+
 <br>
 <br> 
-<span style="text-align:left;font-weight:300;font-size:30px">
+
+<p style="text-align:justify; text-justify: inter-word; line-height:1.2; color:#264653">
+  <span style="font-weight:400;font-size:30px">
     Welcome to our multidisciplinary research group! We are a team of doctors and students who share a passion for research
     and a commitment to advancing healthcare through cutting-edge technology and innovative approaches.
   <br>
@@ -39,5 +45,5 @@ design:
     But our ambitions go beyong these areas. We are committed to expanding our research into other medical specialties and integrating computer and data
     science into our work. We believe that the future of medicine lies at the intersection of these disciplines, and we are excited to be at the forefront
     of this exciting field.
-</span>
+  </span>
 </p>
