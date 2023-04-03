@@ -19,17 +19,22 @@ design:
   background:
     color: "#2a9d8f"
 ---
-<p class="heading">
-<span style="text-align:right; color:#264653;font-weight:700;font-size:60px; line-height:1">
-    Welcome to
-</span>
-<br>
-<span style="text-align:right; color:#264653; font-weight:700; font-size:100px; line-height:1">
-    Men's Health Research
-</span>
-<br>
-<span style="text-align:left; line-height:1; color:#264653;font-weight:700;font-size:30px">
-    A student society and research group 
-<br>based at King's College London
-</span>
-</p>
+<h1 class="heading">
+  <p style="text-align:right; line-height:1">
+    <span style="color:#264653;font-weight:700;font-size:60px">
+      Welcome to
+    </span>
+    <br>
+    <span style="color:#264653; font-weight:700; font-size:100px">
+      Men's Health Research
+    </span>
+    <br>
+  </p>
+  <p style="text-align:left; line-height:1">
+    <span style="color:#264653;font-weight:700;font-size:30px">
+      A student society and research group 
+      <br>
+      based at King's College London
+    </span>
+  </p>
+</h1>
