@@ -17,17 +17,22 @@ design:
 content:
   slides:
     - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
-      align: center
+      content:
+      align: left
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: endofconference_outside.jpg
         fit: cover
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
+      link:
+        icon: 
+        icon_pack: fas
+        text: Meet the team
+        url: ../people/
+    - title: KCL Men's Health at EAU23!
+      content: Take a look at what we've been working on
+      align: right
       background:
         position: center
         color: '#555'
@@ -35,8 +40,8 @@ content:
         media: alex_kfs_genderid.jpg
         fit: cover
     - title: KCL Men's Health at EAU23!
-      content: Take a look at what we're working on...
-      align: center
+      content: Take a look at what we've been working on
+      align: right
       background:
         position: right
         color: '#666'
