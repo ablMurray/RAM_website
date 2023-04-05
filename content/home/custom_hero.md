@@ -40,7 +40,7 @@ design:
 </h1>
 
 <!-- Scroll arrow at bottom -->
-<div class="container">
+<div class="arrow-container">
   <span id="scroll-title">
     Scroll to explore
   </span>
