@@ -38,3 +38,13 @@ design:
     </span>
   </p>
 </h1>
+
+<!-- Scroll arrow at bottom -->
+<div class="container">
+  <span id="scroll-title">
+    Scroll to explore
+  </span>
+  <div class="chevron"></div>
+  <div class="chevron"></div>
+  <div class="chevron"></div>
+</div>
