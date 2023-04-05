@@ -111,7 +111,7 @@ $base: 0.6rem;
 
 .chevron {
   position: absolute;
-  width: $base * 3.5;
+  width: $base * 2;
   height: $base * 0.8;
   opacity: 0;
   transform: scale(0.3);
@@ -153,14 +153,14 @@ $base: 0.6rem;
 	}
  33.3% {
   opacity: 1;
-  transform: translateY($base * 3.8);
+  transform: translateY($base * 2.8);
  }
  66.6% {
   opacity: 1;
-  transform: translateY($base * 5.2);
+  transform: translateY($base * 4.2);
  }
  100% {
   opacity: 0;
-  transform: translateY($base * 8) scale(0.5);
+  transform: translateY($base * 6) scale(0.5);
  }
 }
