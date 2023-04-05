@@ -28,7 +28,7 @@ content:
       link:
         icon: 
         icon_pack: fas
-        text: Meet the team
+        text: Meet the Team
         url: ../people/
     - title: KCL Men's Health at EAU23!
       content: Take a look at what we've been working on
@@ -48,8 +48,8 @@ content:
         brightness: 0.7
         media: dan_presentation.jpg
         fit: cover
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Get in touch
+      content: Reach out if you want to collaborate
       align: right
       background:
         position: center
@@ -57,9 +57,9 @@ content:
         brightness: 0.5
         media: eric_presentation.jpg
         fit: cover
-      # link:
-        # icon: graduation-cap
-        # icon_pack: fas
-        # text: Join Us
-        # url: ../contact/
+      link:
+        icon:
+        icon_pack: fas
+        text: Contact Us
+        url: ../contact/
 ---
