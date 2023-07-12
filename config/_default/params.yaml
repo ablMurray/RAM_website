@@ -42,8 +42,9 @@ header:
 # Site footer
 
 footer:
-  background:
-    color: "#2a9d8f"
+  design:
+    background:
+      color: "#2a9d8f"
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
