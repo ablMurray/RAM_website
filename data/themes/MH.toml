@@ -1,0 +1,22 @@
+# Theme metadata
+name = "MH"
+
+#light or dark theme
+light = true
+
+  # Primary
+  primary = "#EF476F"
+
+  # Menu
+  menu_primary = "#2a9d8f"
+  menu_text = "#fff"
+  menu_text_active = "#ffc300"
+  menu_title = "#420007"
+
+  # Backgrounds
+  background = "#2a9d8f"
+  home_section_odd = "#2a9d8f"
+  home_section_even = "#2a9d8f"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
