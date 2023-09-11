@@ -1,9 +1,7 @@
 # Theme metadata
 name = "MH"
 
-#light or dark theme
-light = true
-
+[light]
   # Primary
   primary = "#EF476F"
 
