@@ -1,5 +1,5 @@
 # Theme metadata
-name = "MH"
+name = "Health"
 
 [light]
   # Primary
@@ -15,6 +15,13 @@ name = "MH"
   background = "#2A9D8F"
   home_section_odd = "#2a9d8f"
   home_section_even = "#2a9d8f"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
