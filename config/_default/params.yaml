@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 Appearance:
-  theme_day: "MH"
+  theme_day: MH
   theme_night:
   font: Minimal
   font_size: L
