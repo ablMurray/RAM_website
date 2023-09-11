@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-Appearance:
+appearance:
   theme_day: MH
   theme_night:
   font: Minimal
