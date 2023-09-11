@@ -12,7 +12,7 @@ name = "MH"
   menu_title = "#420007"
 
   # Backgrounds
-  background = "#2a9d8f"
+  background = "#2A9D8F"
   home_section_odd = "#2a9d8f"
   home_section_even = "#2a9d8f"
 
