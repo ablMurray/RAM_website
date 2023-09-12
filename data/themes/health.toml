@@ -12,7 +12,7 @@ name = "Health"
   menu_title = "#420007"
 
   # Backgrounds
-  background = "#2A9D8F"
+  background = "#f3f4f6"
   home_section_odd = "#2a9d8f"
   home_section_even = "#2a9d8f"
 
