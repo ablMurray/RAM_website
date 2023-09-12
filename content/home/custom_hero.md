@@ -17,7 +17,7 @@ design:
   css_style:
   css_class:
   background:
-    color: "#2a9d8f"
+    color: "#f8f8f8"
 ---
 <h1 class="heading">
   <p style="text-align:right; line-height:1">
