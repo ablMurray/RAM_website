@@ -17,7 +17,7 @@ design:
   css_style:
   css_class:
   background:
-    color: "#2a9d8f"
+    color: "#f8f8f8"
 ---
 
 <h2 class="heading">
