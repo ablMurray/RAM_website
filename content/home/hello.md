@@ -2,13 +2,13 @@
 widget: hero
 headless: true
 weight: 10
-title: <span style="font-weight:600;font-size:40px;color:#c32365;">Welcome to</span><br><span style="font-weight:600;font-size:66px;color:#c32365;">KCL Men's Health</span><br><span style="font-weight:600;font-size:25px;color:#c32365;">A student society and research group</span>
+title: <span style="font-weight:600;font-size:40px;">Welcome to</span><br><span style="font-weight:600;font-size:66px;">KCL Men's Health</span><br><span style="font-weight:600;font-size:25px;">A student society and research group</span>
 hero_media: walnuts.png
 design:
   background:
     gradient_angle: 0
-    gradient_start: '#6f1f4a'
-    gradient_end: '#f12c7e'
+    gradient_start: 'rgb(224,223,255)'
+    gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
   url: '#courses'
