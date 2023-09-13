@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: <span style="font-weight:600;font-size:40px;line-height:1.15;">Welcome to</span><br><span style="font-weight:600;font-size:66px;line-height:1.15;">KCL Men's Health</span><br><span style="font-weight:600;font-size:25px;line-height:1.15;">A student society and research group</span>
+title: <span style="font-weight:600;font-size:40px;">Welcome to</span><br><span style="font-weight:600;font-size:66px;">KCL Men's Health</span><br><span style="font-weight:600;font-size:25px;">A student society and research group</span>
 hero_media: walnuts.png
 design:
   background:
