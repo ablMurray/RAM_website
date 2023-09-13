@@ -7,8 +7,8 @@ hero_media: walnuts.png
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(36,36,36)'
-    gradient_end: 'rgb(0,0,0)'
+    gradient_start: '#6f1f4a'
+    gradient_end: '#f12c7e'
     text_color_light: false
 cta:
   url: '#courses'
