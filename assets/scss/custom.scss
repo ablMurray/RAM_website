@@ -9,7 +9,8 @@
 }
 
 .navbar {
-  background-color: rgba(248, 248, 248, 0.95) !important;
+  background-color: rgba(248, 248, 248, 0.9) !important;
+  backdrop-filter: blur(10px);
 }
 
 //customise display of navbar links when: hovering & active
