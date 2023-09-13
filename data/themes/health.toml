@@ -6,7 +6,7 @@ name = "Health"
   primary = "#EF476F"
 
   # Menu
-  menu_primary = "#2a9d8f"
+  menu_primary = "#f8f8f8"
   menu_text = "#fff"
   menu_text_active = "#ffc300"
   menu_title = "#420007"
