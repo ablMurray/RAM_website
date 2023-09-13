@@ -15,7 +15,7 @@ cta:
   label: Meet the team
   icon_pack: fas
   icon: user-graduate
-cta_alt:
+cta:
   url: '#contact'
   label: Get in touch
 cta_note:
@@ -27,3 +27,5 @@ advanced:
 <br>
 
 Cutting-edge research looking at novel imaging techniques, artificial intelligence and more!
+
+<br>
