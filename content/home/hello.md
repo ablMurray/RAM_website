@@ -27,7 +27,3 @@ advanced:
 <br>
 
 Cutting-edge research looking at novel imaging techniques, artificial intelligence and more!
-
-Take a look through our website to see our work.
-
-If you are interested in collaborating, please get in touch.
