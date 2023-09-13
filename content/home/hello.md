@@ -11,15 +11,23 @@ design:
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
-  url: '#courses'
-  label: Explore our courses
+  url: '#people'
+  label: Meet the team
   icon_pack: fas
   icon: user-graduate
 cta_alt:
-  url:
-  label:
+  url: '#contact'
+  label: Get in touch
 cta_note:
   label:
 advanced:
   css_class: fullscreen
 ---
+
+<br>
+
+Cutting-edge research looking at novel imaging techniques, artificial intelligence and more!
+
+Take a look through our website to see our work.
+
+If you are interested in collaborating, please get in touch.
