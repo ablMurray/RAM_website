@@ -11,12 +11,12 @@ design:
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
-  url: '#people'
+  url: people
   label: Meet the team
   icon_pack: fas
   icon: user-graduate
-cta:
-  url: '#contact'
+cta-alt:
+  url: contact
   label: Get in touch
 cta_note:
   label:
