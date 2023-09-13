@@ -16,8 +16,8 @@ name = "Health"
   home_section_odd = "#fcfcfc"
   home_section_even = "#fcfcfc"
 
-  link = "#fff"
-  link_hover = "#fff"
+  link = "#000000"
+  link_hover = "#000000"
 
 [dark]
   # Primary
