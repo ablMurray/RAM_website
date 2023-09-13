@@ -27,5 +27,5 @@ design:
   show_role: true
   show_social: true
   background:
-    color: "#2a9d8f"
+    color: "#fcfcfc"
 ---
