@@ -15,7 +15,7 @@ cta:
   label: Meet the team
   icon_pack: fas
   icon: user-graduate
-cta-alt:
+cta_alt:
   url: contact
   label: Get in touch
 cta_note:
